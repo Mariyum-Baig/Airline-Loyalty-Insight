@@ -14,9 +14,8 @@ o	Tracks customer preferences, booking patterns 📅, and loyalty behaviors.
 o	Covers contributions from key regions 🗺️, airports 🛫, and flight routes.
 o	Tracks region-wise membership growth and redemption trends.
 5.	📅 Time Period:
-o	Historical data spanning multiple years for trend analysis 📈.
-o	Includes year-to-date (YTD), month-to-date (MTD), and prior period comparisons.
-________________________________________
+o	Historical data spanning multiple years for trend analysis
+📈.	Includes year-to-date (YTD), month-to-date (MTD), and prior period comparisons.
 ✨ Key Features:
 1.	💵 Program Overview:
 o	Track overall revenue 📈, miles earned vs. redeemed 📊, and tier-wise membership growth 🏅.
